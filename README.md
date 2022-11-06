@@ -1,5 +1,5 @@
 # Dataset-Daun-Belimbing-Wuluh-dan-Seledri_117_132
-## Kelompok Tugas Mata Kuliah Kecerdasan Buatan Kelas C, Informatika, Universitas Muhammadiyah Malang. Muhammad Najwa Ma'ruf Abyadhi- 202010370311132, Muhammad Thoriq Al-Faruq - 202010370311117
+## Kelompok Tugas Mata Kuliah Kecerdasan Buatan Kelas C, Informatika, Universitas Muhammadiyah Malang. Muhammad Najwa Ma'ruf Abyadhi - 202010370311132, Muhammad Thoriq Al-Faruq - 202010370311117
 
 ## Meaning
 Python adalah bahasa pemograman tujuan umum tingkat tinggi .Filosofi desainnya menekankan keterbacaan kode dengan penggunaan lekukan signifikan. Python diketik secara dinamis dan dikumpulkan dari sampah. Ini mendukung beberapa paradigma pemograman, termasuk pemograman terstruktur (khususnya prosedural), berorientasi objek dan fungsional. ini perpustakaan standarnya yang komperhensif.
